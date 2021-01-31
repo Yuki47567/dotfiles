@@ -5,8 +5,8 @@ configuration {
 }
 
 * {
-	background-color:            #1d1f21;
-	text-color:                  #f1f1f1;
+	background-color:            #292929;
+	text-color:                  #68686c;
 	winbg:			     		 #a87b42;
 
       	selected-normal-foreground:  @winbg;
@@ -24,16 +24,13 @@ configuration {
 }
 
 window {
-	border: 3	;
+	border: 2	;
 	border-color: #68686c;
 	border-radius: 10;
-	location:	 west;
-	anchor:		 south west;
-	height:		 50%;
+	location:	 center;
+	anchor:		 south;
+	height:		 5%;
 	width:		 17%;
-	y-offset: 40;
-	x-offset: 7;
-	orientation: horizontal;
 }
 
 mainbox {
