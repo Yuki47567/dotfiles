@@ -2,7 +2,7 @@
 
 ### Neofetch
 
-![2021-01-31_13-38](https://user-images.githubusercontent.com/77987469/106384103-b7e8dd80-63c9-11eb-8954-107621b7e31f.png)
+![2021-01-31_16-41](https://user-images.githubusercontent.com/77987469/106389386-4ddd3200-63e3-11eb-90cf-c336abf044ba.png)
 
 ### VSCode and Rofi
 
