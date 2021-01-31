@@ -2,7 +2,11 @@
 
 ### Neofetch
 
-![Screenshot from 2021-01-25 19-58-54](https://user-images.githubusercontent.com/77987469/105752648-d96c4400-5f47-11eb-8fda-6c0c7e272000.png)
+![2021-01-31_13-38](https://user-images.githubusercontent.com/77987469/106384103-b7e8dd80-63c9-11eb-8954-107621b7e31f.png)
+
+
+
+## My bspwm configuration files
 
 | Program | Name |
 | :--- | :--- |
