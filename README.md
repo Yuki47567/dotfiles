@@ -8,6 +8,9 @@
 
 ![Screenshot from 2021-01-31 16-35-40](https://user-images.githubusercontent.com/77987469/106389209-744e9d80-63e2-11eb-9815-9e315e10e498.png)
 
+### Firefox and Ranger
+
+![2021-01-31_16-44](https://user-images.githubusercontent.com/77987469/106389474-c17f3f00-63e3-11eb-9079-93d139ee54ac.png)
 
 ## My bspwm configuration files
 
